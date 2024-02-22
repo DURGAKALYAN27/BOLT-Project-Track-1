@@ -1,0 +1,65 @@
+.bigbox{
+    position: absolute;
+    top:5%;
+    left:25%;
+    width: 55%;
+    height:70%;
+    display:flex;
+    flex-direction: column;
+    border:1px solid black;
+    border-radius: 1rem;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(40, 168, 40);
+}
+.cycle{
+    width:50%;
+    display:flex;
+    flex-direction: row;
+    border-radius: 1rem;
+    text-align:center;
+    justify-content: space-around;
+    background-color: rgb(225, 212, 238);
+    border:1px solid black;
+
+}
+
+.football{
+    width:50%;
+  
+    display:flex;
+    flex-direction: row;
+    border-radius: 1rem;
+    border:1px solid black;
+    text-align:center;
+    justify-content: space-around;
+    background-color: rgb(225, 212, 238);
+    border:1px solid black;
+
+}
+.boxing{
+    width:50%;
+  
+    display:flex;
+    flex-direction: row;
+    border-radius: 1rem;
+    border:1px solid black;
+    text-align:center;
+    justify-content: space-around;
+    background-color: rgb(225, 212, 238);
+    border:1px solid black;
+
+}
+.basketball{
+    width:50%;
+  
+    display:flex;
+    flex-direction: row;
+    border-radius: 1rem;
+    border:1px solid black;
+    text-align:center;
+    justify-content: space-around;
+    background-color: rgb(225, 212, 238);
+    border:1px solid black;
+
+}
