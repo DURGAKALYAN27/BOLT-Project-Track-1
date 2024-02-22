@@ -1,0 +1,79 @@
+.qbox{
+    width:25%;
+    height:5%;
+    position:absolute;
+    top:15%;
+    left:35%;
+    border-radius: 1rem;
+    border:1px solid black;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+.answers-top{
+    position: absolute;
+    top:25%;
+    left:30%;
+    display:flex;
+    flex-direction: row;
+    position: absolute;
+    width:45%;
+    height:45%;
+    justify-content: space-evenly;
+    
+
+}
+
+.answers-bottom{
+    position: absolute;
+    top:40%;
+    left:30%;
+    display:flex;
+    flex-direction: row;
+    position: absolute;
+    width:45%;
+    height:45%;
+    justify-content: space-evenly;
+    
+}
+
+.A{
+    width:40%;
+    height:20%;
+    border-radius: 1rem;
+    border:1px solid black;
+    background-color: rgb(138, 255, 127);
+    text-align: center;
+
+}
+
+.B{
+    width:40%;
+    height:20%;
+    border-radius: 1rem;
+    border:1px solid black;
+    background-color: rgb(138, 255, 127);
+    text-align: center;
+
+}
+
+.C{
+    width:40%;
+    height:20%;
+    border-radius: 1rem;
+    border:1px solid black;
+    background-color: rgb(138, 255, 127);
+    text-align: center;
+
+}
+.D{
+    width:40%;
+    height:20%;
+    border-radius: 1rem;
+    border:1px solid black;
+    background-color: rgb(138, 255, 127);
+    text-align: center;
+
+}
+
+
